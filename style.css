@@ -1,0 +1,79 @@
+*{
+    box-sizing: border-box;
+    /* border and padding will be adjusted */
+    margin:0%; 
+    background-color:ghostwhite;    
+
+}
+body{
+    overflow-x: hidden;
+    
+    
+}
+.main{
+    padding:3%;
+    
+}
+.qa{
+    padding: 3%;
+}
+li{
+    font-size:25px;
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+label{
+    font-size:19px;
+    font-family: "Fredoka", sans-serif;
+    font-optical-sizing: auto;
+    
+}
+.header{
+    color:aqua;
+    font-family:'Times New Roman', Times, serif;
+    font-size:60px;
+    text-shadow: 2px 3px 3px darkblue;
+}
+#radio{
+    accent-color: #00ffff;
+    
+}
+.btns{
+    justify-content: center;
+    color:ghostwhite;
+    background-color: aqua;
+    height: 35%;
+    width: 40%;
+    border-radius: 6%;
+    border:none;
+    box-shadow: 2px 3px 3px darkblue;
+    font-family: "Protest Revolution", sans-serif;
+ 
+}
+.btns:hover{
+    color:aqua;
+    background-color: ghostwhite;
+    box-shadow: -2px -3px 3px darkblue;
+}
+
+.main2{
+    padding:3%;
+}
+p{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: lighter;
+    font-size: 20px;
+  
+  
+}
+.margin{
+    padding:3%;
+    /* border:2px solid darkblue; */
+   
+    box-shadow: -3px -3px 3px aqua;
+}
+.margin:hover{
+    box-shadow: 3px 3px 3px darkblue;
+}
